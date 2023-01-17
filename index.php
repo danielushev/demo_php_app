@@ -1,5 +1,5 @@
 <?php
 
-print  "tova e noviq sait na malkoto????!!!!!";
+print  "This is a simple web page";
 
 ?>
